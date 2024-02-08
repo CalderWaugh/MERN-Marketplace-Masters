@@ -1,12 +1,13 @@
-import { useLocation } from "react-router-dom";
 import { useEffect, useState } from "react";
+import { useLocation } from "react-router-dom";
 
-export default function SearchResultsPage() {
+export default function ItemPage() {
     const location = useLocation();
     const { pathname } = location;
-    const [searchResult, setSearchResult] = useState({id: 1, name: "Umbrella V1"})
 
-    async function getSearchResults() {
+    const [product, setProduct] = useState({name: "Umbrella V1"});
+
+    async function getItem() {
         let url = "http://localhost:3000"
         let search_param = pathname.split("/")[2]
         let data = {product: search_param}
@@ -19,19 +20,19 @@ export default function SearchResultsPage() {
             body: JSON.stringify(data),
           });
         let search_res = await res.json()
-        setSearchResult(search_res)
+        setProduct(search_res)
     }
-
+    
     useEffect(() => {
-        // getSearchResults()
+        getItem()
     }, [])
 
     return (
         <>
-            <p>Search Results</p>
-            {searchResult ? (
+            <p>Item Page</p>
+            {product ? (
                 <>
-                    <div>{searchResult.name}</div>
+                    <div>{product.name}</div>
                 </>
             ) : (
                 <>

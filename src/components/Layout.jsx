@@ -2,10 +2,10 @@ import { Outlet } from "react-router-dom";
 import "../styles/Layout.css";
 import Navbar from "../components/Navbar";
 
-export default function Layout() {
+export default function Layout({cart, handleDeleteFromCart}) {
   return (
     <>
-      <Navbar />
+      <Navbar cart={cart} handleDeleteFromCart={handleDeleteFromCart} />
       <Outlet />
     </>
   );

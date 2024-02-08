@@ -1,4 +1,7 @@
 # MERN-Marketplace-Masters
+
+**Contributors:**
+
 ***Calder Waugh***
 
 ***April Breen***
@@ -16,7 +19,7 @@ When the user is finished shopping, the checkout view will show them all the pro
 1.	Choose Mongo DB for backend data.
 2.	Use node.js to build a web service to read and write data.
 3.	Build the web application in React.
-Data Analysis
+### Data Analysis
 1.	Create a script that generates and populates the database with a minimum of 1000 records of dummy data.
 2.	Train a model using sklearn.neighbors.NearestNeighbors algorithm to recommend products based on current purchase.
 3.	Add attributes such as popularity, durability, and price to each product to make predictions more accurate.
