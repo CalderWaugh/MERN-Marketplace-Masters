@@ -22,12 +22,6 @@ const DropdownMenu = ({ cart, handleDeleteFromCart }) => {
   return (
     <div className="DropdownMenu menu">
       <ul>
-        {cart.map((item, index) => (
-          <li key={index} className={"DropdownMenu item"}>
-            <p>{item.name}</p>
-            <img src="/delete.png" className={"DropdownMenu delete-icon"} onClick={() => {handleDeleteFromCart(item)}}/>
-          </li>
-        ))}
         <li className={"DropdownMenu dropdown-button"}>
           <button onClick={directViewCart}>View Cart</button>
         </li>
