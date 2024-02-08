@@ -7,15 +7,22 @@ export default function CartPage({ cart, handleDeleteFromCart }) {
       <ul className={"CartPage item-list"}>
         {cart.map((item, i) => (
           <li key={i} className={"CartPage item"}>
-            <p>{item.name}</p>
-            <p>$9.99</p>
-            <img
-              src="/delete.png"
-              className={"CartPage delete-icon"}
-              onClick={() => {
-                handleDeleteFromCart(item);
-              }}
-            />
+            <div>
+              <img src="stock-item.jpg" className={"CartPage item-photo"} />
+            </div>
+            <div>
+              <p>{item.name}</p>
+              <p>$9.99</p>
+            </div>
+            <div>
+              <img
+                src="/delete.png"
+                className={"CartPage delete-icon"}
+                onClick={() => {
+                  handleDeleteFromCart(item);
+                }}
+              />
+            </div>
           </li>
         ))}
       </ul>

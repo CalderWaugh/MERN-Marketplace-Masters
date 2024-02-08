@@ -41,8 +41,9 @@ export default function Navbar({ cart, handleDeleteFromCart }) {
           id="search-param"
           type="text"
           onChange={handleChangeSearchParam}
+          className={"Navbar search-box"}
         />
-        <input type="submit" value="Search" />
+        <input type="submit" value="Search" className={"Navbar search-submit"} />
       </form>
       <div
         className={"Navbar cart-icon-container"}
