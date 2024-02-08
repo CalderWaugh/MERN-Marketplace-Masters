@@ -1,24 +1,21 @@
 from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import NearestNeighbors
+from pymongo import MongoClient
 import numpy as np
 import random
 
-# Products & features
-products = [
-    {'name': 'Prod1', 'popularity': 4, 'durability': 4, 'price': 2},
-    {'name': 'Prod2', 'popularity': 5, 'durability': 5, 'price': 1},
-    {'name': 'Prod3', 'popularity': 1, 'durability': 2, 'price': 3},
-    {'name': 'Prod4', 'popularity': 2, 'durability': 4, 'price': 2},
-    {'name': 'Prod5', 'popularity': 5, 'durability': 3, 'price': 2},
-    {'name': 'Prod6', 'popularity': 3, 'durability': 4, 'price': 1},
-    {'name': 'Prod7', 'popularity': 2, 'durability': 1, 'price': 2},
-    {'name': 'Prod8', 'popularity': 1, 'durability': 4, 'price': 3},
-    {'name': 'Prod9', 'popularity': 2, 'durability': 5, 'price': 2},
-    {'name': 'Prod10', 'popularity': 3, 'durability': 1, 'price': 2}
-]
+
+host = 'localhost'
+port = 27017
+database_name = 'UmbrellaStore'
+collection_name = 'products'
+client = MongoClient(host, port)
+db = client[database_name]
+collection = db[collection_name]
 
 # Extracting features into numpy array
-X = np.array([[product['popularity'], product['durability'], product['price']] for product in products])
+products = list(collection.find())
+X = np.array([[product['Popularity'], product['Durability'], product['Price']] for product in products])
 
 # Feature Scaling
 scaler = StandardScaler()
@@ -30,7 +27,7 @@ model = NearestNeighbors(n_neighbors=n_neighbors, algorithm='ball_tree') # 'ball
 model.fit(X_scaled)
 
 # Generate recommendations
-def get_recommendations(product_features, current_product_index):
+def get_recommendations(product_features, current_product_index, products):
     # Scale the product features
     scaled_product_features = scaler.transform([product_features])
 
@@ -38,7 +35,7 @@ def get_recommendations(product_features, current_product_index):
     distances, indices = model.kneighbors(scaled_product_features)
 
     # Exclude the current product from recommendations
-    recommended_products = [products[index]['name'] for index in indices[0] if index != current_product_index]
+    recommended_products = [products[index]['Name'] for index in indices[0] if index != current_product_index]
 
     # Ensure exactly 3 unique products are recommended
     if len(recommended_products) > 3:
@@ -53,12 +50,12 @@ print("\n\nSelected Product:\n", current_product)
 
 # Extracting features from the current_product dictionary
 current_product_features = {
-    'popularity': current_product['popularity'],
-    'durability': current_product['durability'],
-    'price': current_product['price']
+    'Popularity': current_product['Popularity'],
+    'Durability': current_product['Durability'],
+    'Price': current_product['Price']
 }
 
 print("\nCurrent Product Features:\n", current_product_features)
 
-recommendations = get_recommendations(list(current_product_features.values()), current_product_index)
+recommendations = get_recommendations(list(current_product_features.values()), current_product_index, products)
 print("\nRecommended products:\n", recommendations)
