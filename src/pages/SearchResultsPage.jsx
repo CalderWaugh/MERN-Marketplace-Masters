@@ -7,8 +7,9 @@ export default function SearchResultsPage() {
     const [searchResult, setSearchResult] = useState({})
 
     async function getSearchResults() {
-        let url = ""
+        let url = "http://localhost:3000"
         let search_param = pathname.split("/")[1]
+        let data = {product: search_param}
         let res = await fetch(url, {
             method: "POST",
             mode: "no-cors",

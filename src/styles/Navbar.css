@@ -1,7 +1,20 @@
-
 .navbar {
-    display: flex;
-    justify-content: space-evenly;
-    padding: 0 20vw;
-  }
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0 20vw;
+}
+
+.Navbar.cart-icon-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
   
+.Navbar.cart-icon-container:hover {
+  cursor: pointer;
+}
+
+.Navbar.cart-icon {
+  height: 20px;
+}
