@@ -1,18 +1,34 @@
 .navbar {
   display: flex;
-  justify-content: space-evenly;
-  padding: 0 20vw;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10vw;
+  background-color: beige;
+  height: 70px;
+}
+
+.Navbar.home-logo {
+  font-weight: 600;
+  cursor: pointer;
 }
 
 .Navbar.cart-icon-container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
   
 .Navbar.cart-icon-container:hover {
   cursor: pointer;
+}
+
+.Navbar.dropdown-toggle-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 40px;
 }
 
 .Navbar.cart-icon {
