@@ -6,6 +6,7 @@ import SearchResultsPage from "./pages/SearchResultsPage";
 import CartPage from "./pages/CartPage";
 import CheckoutPage from "./pages/CheckoutPage";
 import './App.css'
+import ItemPage from "./pages/ItemPage";
 
 function App() {
   const [cart, setCart] = useState([{id: 3, name: "Umbrella V3"}, {id: 2, name: "Umbrella V2"}])
@@ -15,16 +16,17 @@ function App() {
   }
   
   function onRemoveFromCart(item) {
-    setCart(cart.filter((i) => {i !== item}))
+    setCart(cart.filter((i) => i !== item))
   }
 
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Layout cart={cart} />}>
+        <Route path="/" element={<Layout cart={cart} handleDeleteFromCart={onRemoveFromCart} />}>
           <Route index element={<Home />} />
           <Route path="/search/*" element={<SearchResultsPage />} />
-          <Route path="/cart" element={<CartPage />} />
+          <Route path="/item/*" element={<ItemPage />} />
+          <Route path="/cart" element={<CartPage cart={cart}  handleDeleteFromCart={onRemoveFromCart} />} />
           <Route path="/checkout" element={<CheckoutPage />} />
         </Route>
       </Routes>

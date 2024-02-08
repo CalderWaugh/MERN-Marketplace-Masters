@@ -1,29 +1,46 @@
-import React from "react";
 import { useNavigate } from "react-router-dom";
 import "../styles/DropdownMenu.css";
+import { useEffect } from "react";
 
-const DropdownMenu = ({cart}) => {
-    const navigate = useNavigate();
+const DropdownMenu = ({ cart, handleDeleteFromCart }) => {
+  const navigate = useNavigate();
 
-    function directViewCart() {
-        navigate("/cart")
-    }
+  function directViewCart() {
+    navigate("/cart");
+  }
 
-    function directCheckout() {
-        navigate("/checkout")
-    }
+  function directCheckout() {
+    navigate("/checkout");
+  }
 
-    return (
-        <div className="DropdownMenu menu">
-        <ul>
-            {cart.map((item) => {
-                <li key={item.id}>{item.name}</li>
-            })}
-            <li><button onClick={directViewCart}>View Cart</button></li>
-            <li><button onClick={directCheckout}>Checkout</button></li>
-        </ul>
-        </div>
-    );
+  useEffect(() => {
+    cart.forEach((item) => {
+      console.log(item.name);
+    });
+  }, []);
+
+  return (
+    <div className="DropdownMenu menu">
+      <ul>
+        {cart.map((item, index) => (
+          <li key={index} className={"DropdownMenu item"}>
+            <p>{item.name}</p>
+            <img src="/delete.png" className={"DropdownMenu delete-icon"} onClick={() => {handleDeleteFromCart(item)}}/>
+          </li>
+        ))}
+        <li className={"DropdownMenu dropdown-button"}>
+          <button onClick={directViewCart}>View Cart</button>
+        </li>
+        <li className={"DropdownMenu dropdown-button"}>
+          <button
+            onClick={directCheckout}
+          >
+            Checkout
+          </button>
+        </li>
+      </ul>
+    </div>
+  );
 };
 
 export default DropdownMenu;
