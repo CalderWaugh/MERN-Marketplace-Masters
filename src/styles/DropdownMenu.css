@@ -5,10 +5,12 @@
   position: absolute;
   top: 60px;
   width: 150px;
+  color: var(--medium);
+  font-weight: 600;
 }
 
 .DropdownMenu button {
-  background: #000;
+  background: var(--dark);
   color: #fff;
   padding: 6px 15px;
   border: none;
@@ -23,8 +25,8 @@
 }
 
 .DropdownMenu li:hover {
-    background: rgb(70, 70, 70);
-    color: #fff;
+    background: var(--light);
+    color: var(--extra-dark);
 }
 
 .DropdownMenu.dropdown-button {
@@ -33,7 +35,7 @@
 }
 
 .DropdownMenu.dropdown-button:hover {
-    background: rgb(70, 70, 70);
+    background: var(--light);
     color: #fff;
     cursor: pointer;
 }

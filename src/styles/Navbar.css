@@ -3,7 +3,8 @@
   justify-content: space-between;
   align-items: center;
   padding: 0 10vw;
-  background-color: beige;
+  background-color: var(--dark);
+  color: var(--extra-light);
   height: 70px;
 }
 
@@ -12,11 +13,16 @@
   cursor: pointer;
 }
 
+.Navbar.home-logo:hover {
+  color: white;
+}
+
 .Navbar.cart-icon-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  color: white;
 }
   
 .Navbar.cart-icon-container:hover {
@@ -33,4 +39,21 @@
 
 .Navbar.cart-icon {
   height: 20px;
+}
+
+.Navbar.search-submit {
+  background-color: var(--medium);
+  border: none;
+  padding: 11px 30px;
+  color: white;
+  cursor: pointer;
+}
+
+.Navbar.search-box {
+  background-color: var(--off-white);
+  border: none;
+  height: 30px;
+  padding: 2px 5px;
+  margin: 10px;
+  width: 300px;
 }
