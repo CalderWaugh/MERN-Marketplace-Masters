@@ -23,7 +23,7 @@ try {
 app.get('/api/products', async function (req, res) {
     const productsCol = db.collection('products');
     const products = await productsCol.find()
-    console.log('Products: ' + JSON.stringify(products));
+    console.log('Products: ' + JSON.stringify(products)).toArray();
     //return all the products
     res.send(products)
 })
@@ -32,9 +32,8 @@ app.get('/api/products/bestsellers', async function (req, res) {
     const productsCol = db.collection('products');
     // Filter documents where "Popularity" is greater than 3
     const products = await productsCol.find({ "Popularity": { $gt: 3 } }).toArray()
-    console.log('Products: ' + JSON.stringify(products));
-    //return all the products with Popularity greater than 3
-    res.send(products)
+    filtered_products = products.slice(0,4)
+    res.send(filtered_products)
 })
 
 // Express server listening

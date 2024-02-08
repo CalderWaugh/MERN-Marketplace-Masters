@@ -23,16 +23,18 @@ export default function TopSellers() {
 
     return (
         <>
-            <p>
-                {products.map((p) => {
-                    return (
-
+            <h1>
+                Top Sellers:
+            </h1>
+            {products.map((p) => {
+                return (
+                    <p>
                         <h3>
                             {p.Name}
                         </h3>
-                    )
-                })}
-            </p>
+                    </p>
+                )
+            })}
         </>
     )
 }
