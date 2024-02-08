@@ -1,3 +1,13 @@
 body {
     margin: 0;
+    background-color: var(--off-white);
+}
+
+:root {
+    --extra-dark: #1F271B;
+    --dark: #0B4F6C;
+    --medium: #145C9E;
+    --light: #CBB9A8;
+    --extra-light: #DCC7BE;
+    --off-white: #FAF9F6;
 }
