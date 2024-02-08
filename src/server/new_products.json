@@ -1,0 +1,7002 @@
+[
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 9,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 19,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 15,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 6,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 11,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 25,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 37,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 9,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 27,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 30,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 12,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 28,
+        "Actual_Price": 24,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 12,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 27,
+        "Actual_Price": 27,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 28,
+        "Actual_Price": 23,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 10,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 45,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 28,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 16,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 19,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 39,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 22,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 15,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 44,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 40,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 42,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 18,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 35,
+        "Actual_Price": 27,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 35,
+        "Actual_Price": 27,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 40,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 20,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 47,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 15,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 45,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 20,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 11,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 44,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 30,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 38,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 40,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 25,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 32,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 43,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 7,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 36,
+        "Actual_Price": 22,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 35,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 14,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 33,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 44,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 45,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 13,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 43,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 31,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 27,
+        "Actual_Price": 24,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 37,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 9,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 25,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 29,
+        "Actual_Price": 22,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 25,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 40,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 38,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 26,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 40,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 21,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 37,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 17,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 31,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 9,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 6,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 7,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 8,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 39,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 10,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 14,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 25,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 33,
+        "Actual_Price": 21,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 7,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 20,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 16,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 46,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 47,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 35,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 6,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 22,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 32,
+        "Actual_Price": 26,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 24,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 19,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 21,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 25,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 18,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 17,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 27,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 25,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 21,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 9,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 18,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 32,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 18,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 42,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 6,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 39,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 19,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 32,
+        "Actual_Price": 26,
+        "Price": 3
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 32,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 8,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 32,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 32,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 23,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 45,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 30,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 45,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 8,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 9,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 23,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 44,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 10,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 6,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 31,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 14,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 44,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 13,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 39,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 14,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 10,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 36,
+        "Actual_Price": 24,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 9,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 30,
+        "Actual_Price": 27,
+        "Price": 3
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 38,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 28,
+        "Actual_Price": 28,
+        "Price": 3
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 31,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 19,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 36,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 26,
+        "Actual_Price": 29,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 36,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 46,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 45,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 30,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 7,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 41,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 15,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 41,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 37,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 23,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 17,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 13,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 29,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 8,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 11,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 32,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 34,
+        "Actual_Price": 21,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 36,
+        "Actual_Price": 28,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 33,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 19,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 28,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 40,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 21,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 25,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 16,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 38,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 29,
+        "Actual_Price": 24,
+        "Price": 3
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 38,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 25,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 19,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 34,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 8,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 29,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 33,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 17,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 20,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 47,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 20,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 11,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 34,
+        "Actual_Price": 29,
+        "Price": 3
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 30,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 35,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 40,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 33,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 11,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 34,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 29,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 27,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 48,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 35,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 23,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 48,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 12,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 48,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 47,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 28,
+        "Actual_Price": 26,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 16,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 25,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 27,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 44,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 32,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 46,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 30,
+        "Actual_Price": 24,
+        "Price": 3
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 34,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 19,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 48,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 24,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 40,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 11,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 33,
+        "Actual_Price": 28,
+        "Price": 3
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 26,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 8,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 46,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 20,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 45,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 17,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 13,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 32,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 36,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 32,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 39,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 13,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 18,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 42,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 25,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 8,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 9,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 16,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 22,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 38,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 15,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 29,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 32,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 12,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 9,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 15,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 47,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 23,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 36,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 43,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 34,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 25,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 32,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 6,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 17,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 6,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 41,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 14,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 10,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 21,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 15,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 11,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 45,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 38,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 19,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 27,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 15,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 32,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 17,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 39,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 25,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 39,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 40,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 16,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 46,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 13,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 24,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 25,
+        "Actual_Price": 23,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 28,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 10,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 46,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 39,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 10,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 14,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 19,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 26,
+        "Actual_Price": 27,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 15,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 35,
+        "Actual_Price": 22,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 18,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 31,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 26,
+        "Actual_Price": 29,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 45,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 13,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 43,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 10,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 27,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 37,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 21,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 9,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 13,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 15,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 43,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 32,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 27,
+        "Actual_Price": 27,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 34,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 8,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 21,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 31,
+        "Actual_Price": 23,
+        "Price": 3
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 16,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 10,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 23,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 23,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 15,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 14,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 31,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 48,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 10,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 44,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 20,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 10,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 31,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 40,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 38,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 27,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 32,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 12,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 43,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 22,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 22,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 30,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 32,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 30,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 47,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 46,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 15,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 30,
+        "Actual_Price": 24,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 14,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 36,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 6,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 8,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 6,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 30,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 17,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 18,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 7,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 37,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 32,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 41,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 47,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 27,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 6,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 32,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 11,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 34,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 17,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 31,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 19,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 40,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 7,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 33,
+        "Actual_Price": 22,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 47,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 30,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 12,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 15,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 14,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 30,
+        "Actual_Price": 30,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 8,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 46,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 33,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 23,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 28,
+        "Actual_Price": 30,
+        "Price": 3
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 21,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 23,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 27,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 32,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 44,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 6,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 7,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 11,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 24,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 37,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 23,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 43,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 36,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 42,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 42,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 22,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 31,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 11,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 37,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 14,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 31,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 17,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 35,
+        "Actual_Price": 26,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 9,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 40,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 7,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 20,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 35,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 21,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 29,
+        "Actual_Price": 28,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 22,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 36,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 20,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 42,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 35,
+        "Actual_Price": 21,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 20,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 33,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 47,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 37,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 16,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 31,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 19,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 36,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 19,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 36,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 25,
+        "Actual_Price": 28,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 34,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 16,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 11,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 46,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 32,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 42,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 42,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 19,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 21,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 35,
+        "Actual_Price": 21,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 30,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 21,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 43,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 33,
+        "Actual_Price": 26,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 24,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 30,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 8,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 41,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 21,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 26,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 41,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 26,
+        "Actual_Price": 22,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 14,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 16,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 6,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 12,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 46,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 16,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 36,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 7,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 40,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 7,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 25,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 43,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 30,
+        "Actual_Price": 29,
+        "Price": 3
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 19,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 42,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 18,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 38,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 8,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 44,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 25,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 8,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 8,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 48,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 28,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 48,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 36,
+        "Actual_Price": 28,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 43,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 20,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 42,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 47,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 14,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 9,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 47,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 20,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 10,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 14,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 11,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 17,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 37,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 18,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 34,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 7,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 45,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 47,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 20,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 23,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 10,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 41,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 22,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 16,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 18,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 42,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 22,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 22,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 24,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 26,
+        "Actual_Price": 21,
+        "Price": 3
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 44,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 6,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 10,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 22,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 14,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 34,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 16,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 40,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 45,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 12,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 17,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 42,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 48,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 33,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 32,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 42,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 10,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 14,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 20,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 47,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 48,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 37,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 38,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 47,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 20,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 44,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 12,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 45,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 28,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 38,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 38,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 19,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 16,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 17,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 23,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 43,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 36,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 8,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 45,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 31,
+        "Actual_Price": 30,
+        "Price": 3
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 19,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 15,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 33,
+        "Actual_Price": 24,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 25,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 30,
+        "Actual_Price": 29,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 37,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 43,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 16,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 18,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 7,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 22,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 41,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 12,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 18,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 16,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 39,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 10,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 10,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 15,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 20,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 8,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 28,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 11,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 13,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 47,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 35,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 44,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 42,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 19,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 43,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 42,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 25,
+        "Actual_Price": 30,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 34,
+        "Actual_Price": 27,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 13,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 47,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 6,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 29,
+        "Actual_Price": 21,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 41,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 27,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 36,
+        "Actual_Price": 21,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 42,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 21,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 21,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 6,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 11,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 44,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 13,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 12,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 41,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 44,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 46,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 44,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 7,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 41,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 16,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 32,
+        "Actual_Price": 26,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 34,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 32,
+        "Actual_Price": 22,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 27,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 26,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 36,
+        "Actual_Price": 30,
+        "Price": 3
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 11,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 22,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 36,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 32,
+        "Actual_Price": 26,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 26,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 47,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 36,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 38,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 25,
+        "Actual_Price": 22,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 39,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 46,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 18,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 9,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 15,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 46,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 6,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 32,
+        "Actual_Price": 24,
+        "Price": 3
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 14,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 28,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 16,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 30,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 24,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 45,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 20,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 32,
+        "Actual_Price": 22,
+        "Price": 3
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 47,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 25,
+        "Actual_Price": 30,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 17,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 45,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 11,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 20,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 35,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 9,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 18,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 15,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 26,
+        "Actual_Price": 28,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 24,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 29,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 41,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 25,
+        "Actual_Price": 24,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 37,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 9,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 24,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 16,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 42,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 34,
+        "Actual_Price": 26,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 15,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 27,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 27,
+        "Actual_Price": 27,
+        "Price": 3
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 37,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 19,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 17,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 8,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 32,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 12,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 39,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 43,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 19,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 8,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 44,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 25,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 26,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 12,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 40,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 27,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 6,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 30,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 47,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 23,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 27,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 13,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 19,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 23,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 33,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 42,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 42,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 23,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 43,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 31,
+        "Actual_Price": 30,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 10,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 26,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 14,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 9,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 23,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 15,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 11,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 27,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 20,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 10,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 44,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 39,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 44,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 48,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 8,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 30,
+        "Actual_Price": 23,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 9,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 14,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 15,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 42,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 10,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 7,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 18,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 7,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 31,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 48,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 44,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 11,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 10,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 23,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 33,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 42,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 25,
+        "Actual_Price": 30,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 17,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 30,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 24,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 6,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 36,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 6,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 28,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 31,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 15,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 16,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 45,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 10,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 33,
+        "Actual_Price": 26,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 44,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 27,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 15,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 8,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 42,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 47,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 25,
+        "Actual_Price": 22,
+        "Price": 3
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 35,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 21,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 24,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 6,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 21,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 40,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 29,
+        "Actual_Price": 30,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 38,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 21,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 16,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 36,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 26,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 16,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 47,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 13,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 31,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 18,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 9,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 48,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 27,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 29,
+        "Actual_Price": 27,
+        "Price": 3
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 30,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 37,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 45,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 6,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 7,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 44,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 24,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 39,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 46,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 48,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 15,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 40,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 45,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 43,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 6,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 37,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 13,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 37,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 42,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 37,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 15,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 42,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 22,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 19,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 29,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 28,
+        "Actual_Price": 26,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 10,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 20,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 12,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 23,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 39,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 39,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 43,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 32,
+        "Actual_Price": 26,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 48,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 27,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 35,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 29,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 41,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 6,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 15,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 18,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 38,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 10,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 43,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 15,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 36,
+        "Actual_Price": 26,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 32,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 43,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 31,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 31,
+        "Actual_Price": 26,
+        "Price": 3
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 30,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 17,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 37,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 17,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 15,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 14,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 7,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 39,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 35,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 7,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 12,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 45,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 36,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 44,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 43,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 7,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 14,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 18,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 44,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 11,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 31,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 18,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 10,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 12,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 20,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 15,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 23,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 35,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 45,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 33,
+        "Actual_Price": 22,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 30,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 17,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 9,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 38,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 10,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 36,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 6,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 33,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 40,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 40,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 37,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 40,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 28,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 43,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 46,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 25,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 47,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 16,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 21,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 44,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 24,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 6,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 9,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 12,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 34,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 28,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 48,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 17,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 22,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 48,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 29,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 9,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 33,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 30,
+        "Actual_Price": 28,
+        "Price": 3
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 15,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 12,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 45,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 8,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 29,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 22,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 46,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 47,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 46,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 9,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 39,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 17,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 39,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 34,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 9,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 8,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 14,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 35,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 7,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 26,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 23,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 24,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 36,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 45,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 21,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 36,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 25,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 30,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 46,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 26,
+        "Actual_Price": 23,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 32,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 32,
+        "Actual_Price": 28,
+        "Price": 3
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 37,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 45,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 42,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 12,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 7,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 28,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 9,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 17,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 18,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 41,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 13,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 14,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 32,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 39,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 37,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 26,
+        "Actual_Price": 21,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 28,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 35,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 46,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 34,
+        "Actual_Price": 29,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 31,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 18,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 29,
+        "Actual_Price": 30,
+        "Price": 3
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 46,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 18,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 39,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 12,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 12,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 9,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 23,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 10,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 44,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 14,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 42,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 33,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 34,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 20,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 17,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 19,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 26,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 47,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 13,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 7,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 8,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 14,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 5,
+        "Length": 46,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 12,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 45,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 44,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 46,
+        "Actual_Price": 36,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 7,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 17,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 14,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 42,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 4,
+        "Length": 35,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 4,
+        "Length": 46,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 1,
+        "Length": 28,
+        "Actual_Price": 24,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 21,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 10,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 32,
+        "Actual_Price": 24,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 20,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 36,
+        "Actual_Price": 22,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 3,
+        "Length": 29,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 39,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 13,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 2,
+        "Length": 25,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 30,
+        "Actual_Price": 22,
+        "Price": 3
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 25,
+        "Actual_Price": 40,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 11,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 20,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 16,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 22,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 48,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 32,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 43,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 5,
+        "Length": 17,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 39,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 30,
+        "Actual_Price": 30,
+        "Price": 3
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 32,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 39,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 24,
+        "Actual_Price": 41,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 14,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 41,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 30,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 6,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 36,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 5,
+        "Length": 19,
+        "Actual_Price": 47,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 40,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 11,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 8,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 14,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 40,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 4,
+        "Length": 24,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 30,
+        "Actual_Price": 30,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 45,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 2,
+        "Length": 26,
+        "Actual_Price": 26,
+        "Price": 3
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 33,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 1,
+        "Length": 7,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 30,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 21,
+        "Actual_Price": 48,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 2,
+        "Length": 41,
+        "Actual_Price": 35,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 4,
+        "Length": 35,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 3,
+        "Length": 28,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 3,
+        "Length": 26,
+        "Actual_Price": 34,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 6,
+        "Actual_Price": 46,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 3,
+        "Length": 12,
+        "Actual_Price": 42,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 29,
+        "Actual_Price": 37,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 37,
+        "Actual_Price": 33,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 11,
+        "Actual_Price": 43,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 3,
+        "Length": 31,
+        "Actual_Price": 32,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 5,
+        "Length": 13,
+        "Actual_Price": 50,
+        "Price": 4
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 36,
+        "Actual_Price": 27,
+        "Price": 3
+    },
+    {
+        "Popularity": 1,
+        "Durability": 1,
+        "Length": 45,
+        "Actual_Price": 31,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 46,
+        "Actual_Price": 38,
+        "Price": 4
+    },
+    {
+        "Popularity": 2,
+        "Durability": 5,
+        "Length": 9,
+        "Actual_Price": 49,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 41,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 1,
+        "Durability": 2,
+        "Length": 18,
+        "Actual_Price": 44,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 2,
+        "Length": 26,
+        "Actual_Price": 25,
+        "Price": 3
+    },
+    {
+        "Popularity": 4,
+        "Durability": 1,
+        "Length": 22,
+        "Actual_Price": 45,
+        "Price": 4
+    },
+    {
+        "Popularity": 3,
+        "Durability": 1,
+        "Length": 47,
+        "Actual_Price": 39,
+        "Price": 4
+    },
+    {
+        "Popularity": 5,
+        "Durability": 4,
+        "Length": 8,
+        "Actual_Price": 43,
+        "Price": 4
+    }
+]

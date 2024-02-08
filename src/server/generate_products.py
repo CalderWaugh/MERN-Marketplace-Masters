@@ -60,6 +60,13 @@ def generate_products():
 
 
 def create_json(products):
-    with open ('products.json', 'w') as file:
+    with open ('new_products.json', 'w') as file:
+        json.dump(products, file, indent=4)
+
+
+if __name__ == "__main__":
+    generated_products = generate_products()
+    create_json(generated_products)
+    print("Products have been generated and saved to new_products.json")
         
     
