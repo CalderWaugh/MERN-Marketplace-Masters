@@ -1,8 +1,6 @@
 import express from "express";
 import mongodb from "mongodb";
 const { MongoClient } = mongodb
-// import fs from 'fs'
-// import jsonData from './new_products.jsonproducts.json' with { type: "json" }
 
 // Connection URL
 const url = 'mongodb://localhost:27017';
@@ -23,25 +21,11 @@ try {
 
 app.get('/api/products', async function (req, res) {
     const productsCol = db.collection('products');
-    const products = await filmsCol.find().toArray();
+    const products = await productsCol.find().toArray();
     console.log('Products: ' + JSON.stringify(products));
     //return all the products
     res.send(products)
 })
-
-// Get products using dummy data
-// app.get('/api/products', async function (req, res) {
-//     fs.readFile('products.json', 'utf8', (err, data) => {
-//         if (err) {
-//             console.error("Error Reading JSON file: ", err)
-//             res.status(500).send("Internal Server Error")
-//             return
-//         }
-
-//         const jsonData = JSON.parse(data)
-//         res.json(jsonData)
-//     })
-// })
 
 // Express server listening
 app.listen(3000)
