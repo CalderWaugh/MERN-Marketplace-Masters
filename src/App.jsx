@@ -25,7 +25,7 @@ function App() {
         <Route path="/" element={<Layout cart={cart} handleDeleteFromCart={onRemoveFromCart} />}>
           <Route index element={<Home />} />
           <Route path="/search/*" element={<SearchResultsPage />} />
-          <Route path="/item/*" element={<ItemPage />} />
+          <Route path="/item/*" element={<ItemPage handleAddItemToCart={onAddToCart} />} />
           <Route path="/cart" element={<CartPage cart={cart}  handleDeleteFromCart={onRemoveFromCart} />} />
           <Route path="/checkout" element={<CheckoutPage />} />
         </Route>

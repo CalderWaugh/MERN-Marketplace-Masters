@@ -1,17 +1,36 @@
+.CartPage.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.CartPage.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  background-color: var(--extra-light);
+  height: 100vh;
+  margin-top: 10px;
+  color: var(--extra-dark);
+  border-radius: 10px 10px 0 0;
+}
+
 .CartPage.item-list {
   list-style: none;
   padding: unset;
   margin: unset;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
+  width: 75%;
 }
 
 .CartPage.item {
-  background-color: var(--extra-light);
-  color: var(--extra-dark);
-  width: 25%;
+  background-color: var(--dark);
+  color: var(--off-white);
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -21,12 +40,16 @@
   border-radius: 5px;
 }
 
+.CartPage.item-name {
+  cursor: pointer;
+}
+
 .CartPage.delete-icon {
   height: 30px;
   cursor: pointer;
 }
 
 .CartPage.item-photo {
-  height: 100px;
+  height: 200px;
   border-radius: 10px;
 }

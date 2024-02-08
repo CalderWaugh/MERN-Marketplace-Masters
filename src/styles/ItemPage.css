@@ -1,0 +1,39 @@
+.ItemPage.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.ItemPage.container {
+  width: 50%;
+  height: fit-content;
+  background-color: var(--dark);
+  display: flex;
+  padding: 20px 40px;
+  margin-top: 4vh;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ItemPage.item-info-container {
+  text-align: left;
+  flex: 2;
+  padding: 20px;
+  font-size: large;
+  font-weight: 600;
+  background-color: var(--extra-light);
+  margin: 100px;
+  border-radius: 5px;
+}
+
+.ItemPage.item-photo {
+  height: 350px;
+  border-radius: 10px;
+}
+
+.CartPage.add-to-cart-icon {
+  height: 50px;
+  cursor: pointer;
+}
