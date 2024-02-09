@@ -3,7 +3,7 @@ import random
 
 def generate_products():
     products = []
-    for _ in range(1000):
+    for index in range(1000):
         popularity = random.randint(1,5)
         durability = random.randint(1,5)
         length = random.randint(6,48)
@@ -48,6 +48,7 @@ def generate_products():
             price = 4
 
         product = {
+            "Name": f"Umbrella No. {index+1}",
             "Popularity": popularity,
             "Durability": durability,
             "Length": length,
@@ -60,6 +61,13 @@ def generate_products():
 
 
 def create_json(products):
-    with open ('products.json', 'w') as file:
+    with open ('new_products.json', 'w') as file:
+        json.dump(products, file, indent=4)
+
+
+if __name__ == "__main__":
+    generated_products = generate_products()
+    create_json(generated_products)
+    print("Products have been generated and saved to new_products.json")
         
     
