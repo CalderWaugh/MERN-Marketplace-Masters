@@ -1,0 +1,32 @@
+.CheckoutPage.form {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 20vw;
+    background-color: var(--extra-light);
+    padding: 20px 200px;
+}
+
+.CheckoutPage.form-section {
+    margin: 10px 0;
+    display: flex;
+    justify-content: left;
+}
+
+.CheckoutPage.form-section-button {
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.CheckoutPage.form-item {
+    margin: 0 5px;
+}
+
+.CheckoutPage.form-submit {
+    background-color: var(--medium);
+    border: none;
+    padding: 11px 30px;
+    color: white;
+    cursor: pointer;
+
+}
