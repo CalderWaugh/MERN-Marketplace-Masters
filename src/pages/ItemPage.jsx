@@ -6,8 +6,6 @@ export default function ItemPage({ handleAddItemToCart }) {
   const navigate = useNavigate();
   const location = useLocation();
   const { pathname } = location;
-
-
   const [product, setProduct] = useState(null);
 
   async function getItem() {
