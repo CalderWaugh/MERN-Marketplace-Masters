@@ -7,19 +7,23 @@ export default function ItemPage({ handleAddItemToCart }) {
   const location = useLocation();
   const { pathname } = location;
 
-  const [product, setProduct] = useState({});
+
+  const [product, setProduct] = useState(null);
 
   async function getItem() {
-    let url = "/api/product";
-    let search_param = pathname.split("/")[2];
-    let data = { id: search_param };
-    let res = await fetch(url, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(data),
-    });
-    let prod = await res.json();
-    setProduct(prod);
+    try {
+      let productId = pathname.split("/")[2];
+      let productUrl = `http://localhost:3000/api/products/${productId}`;
+      let productResponse = await fetch(productUrl);
+      if (!productResponse.ok) {
+        throw new Error("Failed to fetch product");
+      }
+      let productData = await productResponse.json();
+
+      setProduct(productData);
+    } catch (error) {
+      console.error("Error fetching product:", error);
+    }
   }
 
   useEffect(() => {
@@ -31,14 +35,20 @@ export default function ItemPage({ handleAddItemToCart }) {
       {product ? (
         <div className={"ItemPage container"}>
           <div>
-            <img src="/stock-item.jpg" className={"ItemPage item-photo"} />
+            <img src="/stock-item.jpg" alt="Product" className={"ItemPage item-photo"} />
           </div>
           <div className={"ItemPage item-info-container"}>
             <p>{product.Name}</p>
             <p>${product.Actual_Price}</p>
+            <p>Recommended:</p>
+            <ul>
+              <li>Goes here</li>
+            </ul>
+
           </div>
           <img
             src="/add-to-cart.png"
+            alt="Add to Cart"
             className={"CartPage add-to-cart-icon"}
             onClick={() => {
               handleAddItemToCart(product);
@@ -47,9 +57,7 @@ export default function ItemPage({ handleAddItemToCart }) {
           />
         </div>
       ) : (
-        <>
-          <p>No result</p>
-        </>
+        <p>Loading...</p>
       )}
     </div>
   );
