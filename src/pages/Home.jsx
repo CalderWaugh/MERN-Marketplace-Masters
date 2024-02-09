@@ -5,13 +5,12 @@ import TopSellers from "../components/TopSellers";
 import Products from "../components/Products";
 
 export default function Home() {
-    return (
-      <>
-        <p>Home</p>
-        <Products />
-        <Recommendations />
-        <BuyAgain />
-        <TopSellers />
-      </>
-    )
+  return (
+    <>
+      <TopSellers />
+      <Products />
+      {/* <Recommendations />
+      <BuyAgain /> */}
+    </>
+  );
 }

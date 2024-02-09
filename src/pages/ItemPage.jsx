@@ -7,26 +7,23 @@ export default function ItemPage({ handleAddItemToCart }) {
   const location = useLocation();
   const { pathname } = location;
 
-  const [product, setProduct] = useState({ name: "Umbrella V1" });
+  const [product, setProduct] = useState({});
 
   async function getItem() {
-    let url = "http://localhost:3000";
+    let url = "/api/product";
     let search_param = pathname.split("/")[2];
-    let data = { product: search_param };
+    let data = { id: search_param };
     let res = await fetch(url, {
       method: "POST",
-      mode: "no-cors",
-      headers: {
-        "Content-Type": "application/json",
-      },
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify(data),
     });
-    let search_res = await res.json();
-    setProduct(search_res);
+    let prod = await res.json();
+    setProduct(prod);
   }
 
   useEffect(() => {
-    // getItem()
+    getItem();
   }, []);
 
   return (
@@ -37,8 +34,8 @@ export default function ItemPage({ handleAddItemToCart }) {
             <img src="/stock-item.jpg" className={"ItemPage item-photo"} />
           </div>
           <div className={"ItemPage item-info-container"}>
-            <p>{product.name}</p>
-            <p>$9.99</p>
+            <p>{product.Name}</p>
+            <p>${product.Actual_Price}</p>
           </div>
           <img
             src="/add-to-cart.png"

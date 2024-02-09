@@ -17,8 +17,8 @@ export default function CartPage({ cart, handleDeleteFromCart }) {
                 <img src="stock-item.jpg" className={"CartPage item-photo"} />
               </div>
               <div>
-                <p onClick={() => viewItem(item.id)} className={"CartPage item-name"}>{item.name}</p>
-                <p>$9.99</p>
+                <p onClick={() => viewItem(item.id)} className={"CartPage item-name"}>{item.Name}</p>
+                <p>${item.Actual_Price}</p>
               </div>
               <div>
                 <img

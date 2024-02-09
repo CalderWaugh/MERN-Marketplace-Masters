@@ -9,7 +9,7 @@ import './App.css'
 import ItemPage from "./pages/ItemPage";
 
 function App() {
-  const [cart, setCart] = useState([{id: 3, name: "Umbrella V3"}, {id: 2, name: "Umbrella V2"}])
+  const [cart, setCart] = useState([])
 
   function onAddToCart(item) {
     setCart([...cart, item])
