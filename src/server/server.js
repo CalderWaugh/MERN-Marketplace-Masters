@@ -1,58 +1,44 @@
 import express from "express";
-// import mongodb from "mongodb";
-import fs from 'fs'
-import jsonData from './products.json' with { type: "json" }
-// const { MongoClient } = mongodb
+import mongodb from "mongodb";
+const { MongoClient } = mongodb
 
 // Connection URL
-// const url = 'mongodb://localhost:27017';
-// const client = new MongoClient(url);
-
+const url = 'mongodb://localhost:27017';
+const client = new MongoClient(url);
 const app = express();
 // Database Name
-// const dbName = 'products';
-const dbName = jsonData;
+const dbName = 'UmbrellaStore';
 let db
 
 // Connect database to server
-// try {
-//     await client.connect(url)
-//     console.log("Connected successfully to server");
-//     db = client.db(dbName);
-// } catch (err) {
-//     console.error("Cannot Connect", err)
-// }
+try {
+    await client.connect(url)
+    console.log("Connected successfully to server");
+    db = client.db(dbName);
+} catch (err) {
+    console.error("Cannot Connect", err)
+}
 
-// app.get('/api/products', async function (req, res) {
-//     const filmsCol = db.collection('products');
-//     const films = await filmsCol.find().toArray();
-//     console.log('Products: ' + JSON.stringify(films));
-//     //return all the products
-//     res.send(products)
-// })
-
-// Get products using dummy data
+// get all products
 app.get('/api/products', async function (req, res) {
-    fs.readFile('products.json', 'utf8', (err, data) => {
-        if (err) {
-            console.error("Error Reading JSON file: ", err)
-            res.status(500).send("Internal Server Error")
-            return
-        }
-
-        const jsonData = JSON.parse(data)
-        res.json(jsonData)
-    })
+    const productsCol = db.collection('products');
+    const products = await productsCol.find()
+    console.log('Products: ' + JSON.stringify(products)).toArray();
+    //return all the products
+    res.send(products)
+})
+// get best sellers
+app.get('/api/products/bestsellers', async function (req, res) {
+    const productsCol = db.collection('products');
+    // Filter documents where "Popularity" is greater than 3
+    const products = await productsCol.find({ "Popularity": { $gt: 3 } }).limit(5).toArray()
+    res.send(products)
 })
 
 // Express server listening
-const PORT = 3000
-app.listen(PORT, () => {
-    console.log('Server is running on http://localhost:3000')
-})
-
-// Handling SIGINT signal
+app.listen(3000)
 process.on("SIGINT", () => {
-    console.log('SIGINT signal received');
+    client.close();
+    console.log('sigint');
     process.exit();
-});
+})
