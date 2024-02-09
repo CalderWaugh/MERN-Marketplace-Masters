@@ -7,9 +7,9 @@ export default function Home() {
     return (
       <>
         <p>Home</p>
-        <Recommendations />
+        {/* <Recommendations /> */}
         <BuyAgain />
-        <TopSellers />
+        {/* <TopSellers /> */}
       </>
     )
 }

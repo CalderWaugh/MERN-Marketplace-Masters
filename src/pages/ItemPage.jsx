@@ -7,26 +7,26 @@ export default function ItemPage({ handleAddItemToCart }) {
   const location = useLocation();
   const { pathname } = location;
 
-  const [product, setProduct] = useState({ name: "Umbrella V1" });
+  const [product, setProduct] = useState(null);
 
   async function getItem() {
-    let url = "http://localhost:3000";
-    let search_param = pathname.split("/")[2];
-    let data = { product: search_param };
-    let res = await fetch(url, {
-      method: "POST",
-      mode: "no-cors",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(data),
-    });
-    let search_res = await res.json();
-    setProduct(search_res);
+    try {
+      let productId = pathname.split("/")[2];
+      let productUrl = `http://localhost:3000/api/products/${productId}`;
+      let productResponse = await fetch(productUrl);
+      if (!productResponse.ok) {
+        throw new Error("Failed to fetch product");
+      }
+      let productData = await productResponse.json();
+
+      setProduct(productData);
+    } catch (error) {
+      console.error("Error fetching product:", error);
+    }
   }
 
   useEffect(() => {
-    // getItem()
+    getItem();
   }, []);
 
   return (
@@ -34,14 +34,20 @@ export default function ItemPage({ handleAddItemToCart }) {
       {product ? (
         <div className={"ItemPage container"}>
           <div>
-            <img src="/stock-item.jpg" className={"ItemPage item-photo"} />
+            <img src="/stock-item.jpg" alt="Product" className={"ItemPage item-photo"} />
           </div>
           <div className={"ItemPage item-info-container"}>
-            <p>{product.name}</p>
-            <p>$9.99</p>
+            <p>{product.Name}</p>
+            <p>${product.Actual_Price}</p>
+            <p>Recommended:</p>
+            <ul>
+              
+              <li>Goes here</li>
+            </ul>
           </div>
           <img
             src="/add-to-cart.png"
+            alt="Add to Cart"
             className={"CartPage add-to-cart-icon"}
             onClick={() => {
               handleAddItemToCart(product);
@@ -50,9 +56,7 @@ export default function ItemPage({ handleAddItemToCart }) {
           />
         </div>
       ) : (
-        <>
-          <p>No result</p>
-        </>
+        <p>Loading...</p>
       )}
     </div>
   );
