@@ -36,6 +36,13 @@ app.post('/api/product', async function (req, res) {
     const products = await productsCol.findOne({"_id" : new mongoose.Types.ObjectId(req.body.id)})
     res.send(products)
 })
+
+app.post('/api/productname', async function (req, res) {
+    const productsCol = db.collection('products');
+    const products = await productsCol.findOne({"Name" : req.body.Name})
+    res.send(products)
+})
+
 // get all products
 app.get('/api/products', async function (req, res) {
     const productsCol = db.collection('products');

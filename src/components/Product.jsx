@@ -7,6 +7,7 @@ export default function Product({product}) {
     function viewProduct(id) {
         navigate(`/item/${id}`)
     }
+
     return (
         <div className={"Product product-container"}>
             <p className={"Product product-name"} onClick={() => viewProduct(product._id)}>{product.Name}</p>
