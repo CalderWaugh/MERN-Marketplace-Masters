@@ -7,6 +7,7 @@ export default function ItemPage({ handleAddItemToCart }) {
   const location = useLocation();
   const { pathname } = location;
 
+
   const [product, setProduct] = useState(null);
 
   async function getItem() {
@@ -41,9 +42,9 @@ export default function ItemPage({ handleAddItemToCart }) {
             <p>${product.Actual_Price}</p>
             <p>Recommended:</p>
             <ul>
-              
               <li>Goes here</li>
             </ul>
+
           </div>
           <img
             src="/add-to-cart.png"
