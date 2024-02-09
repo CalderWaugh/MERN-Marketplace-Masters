@@ -1,11 +1,9 @@
 import express from "express";
 import mongodb from "mongodb";
 import mongoose from 'mongoose';
-import bodyParser from "body-parser";
 const { ObjectId } = mongoose.Types;
-import axios from "axios"; // Import axios for making HTTP requests
+const { MongoClient } = mongodb
 import bodyParser from "body-parser";
-import { MongoClient } from "mongodb";
 
 // Connection URL
 const url = 'mongodb://127.0.0.1:27017';
@@ -25,8 +23,8 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // Connect to the MongoDB server
-client.connect()
-  .then(() => {
+try {
+    await client.connect(url)
     console.log("Connected successfully to server");
     db = client.db(dbName);
 } catch (err) {
