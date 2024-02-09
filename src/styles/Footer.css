@@ -1,0 +1,12 @@
+.Footer.footer {
+    background-color: var(--dark);
+    padding: 6px 0;
+    text-align: center;
+    margin-top: 20px;
+    bottom: 0;
+    width: 100%;
+}
+
+.Footer.text {
+  color: white;
+}

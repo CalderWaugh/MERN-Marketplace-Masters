@@ -43,6 +43,34 @@ app.post('/api/productname', async function (req, res) {
     res.send(products)
 })
 
+
+app.post('/api/product/search', async function (req, res) {
+    const productsCol = db.collection('products');
+    const {dur, size} = req.body;
+    let query;
+    console.log(req.body)
+    if (dur === "standard") {
+        query = {"Durability" : { $lt: 3}}
+    } else if (dur === "good") {
+        query = {"Durability" : 3}
+    } else if (dur === "ultra") {
+        query = {"Durability" : { $gt: 3}}
+    }
+    [6,48]
+    if (size === "short") {
+        query["Length"] = { $lt: 21}
+    } else if (size === "medium") {
+        query["Length"] = { $gte: 21, $lte: 35}
+    } else if (size === "long") {
+        query["Length"] = { $gt: 35}
+    }
+
+    const products = await productsCol.find(query).toArray()
+    console.log(products)
+    res.send(products)
+})
+
+
 // get all products
 app.get('/api/products', async function (req, res) {
     const productsCol = db.collection('products');

@@ -50,7 +50,7 @@ export default function Products() {
       {products ? (
         <div className={"Products products-container"}>
           <div className={"Products header"}>
-            <h1>Products</h1>
+            <h1>All Umbrellas</h1>
           </div>
           {displayedProducts.map((p, i) => (
             <Product key={i} product={p} />

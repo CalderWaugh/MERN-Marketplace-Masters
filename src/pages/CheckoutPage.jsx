@@ -10,7 +10,7 @@ export default function CheckoutPage({resetCart}) {
     }
 
   return (
-    <div>
+    <div className={"CheckoutPage content"}>
       <form className={"CheckoutPage form"} onSubmit={onCompleteCheckout}>
         <div className={"CheckoutPage form-section"}>
           <div className={"CheckoutPage form-item"}>

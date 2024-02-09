@@ -9,8 +9,9 @@
 }
 
 .Navbar.home-logo {
-  font-weight: 600;
   cursor: pointer;
+  height: 100px;
+  margin-top: 10px;
 }
 
 .Navbar.home-logo:hover {
@@ -56,4 +57,10 @@
   padding: 2px 5px;
   margin: 10px;
   width: 300px;
+}
+
+.Navbar.dropdown {
+  margin: 0 10px;
+  height: 34px;
+  padding: 2px 5px;
 }

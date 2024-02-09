@@ -7,14 +7,12 @@ import DropdownMenu from "./DropdownMenu";
 export default function Navbar({ cart, handleDeleteFromCart }) {
   const navigate = useNavigate();
 
-  const [searchParam, setSearchParam] = useState("");
   const [isDropdownVisible, setDropdownVisible] = useState(false);
+  const [durability, setDurability] = useState('good');
+  const [size, setSize] = useState('medium');
 
-  function handleChangeSearchParam(event) {
-    setSearchParam(event.target.value);
-  }
   function handleSearch() {
-    navigate(`/search/${searchParam}`);
+    navigate(`/search/${durability}/${size}`);
   }
 
   function directViewCart() {
@@ -33,17 +31,51 @@ export default function Navbar({ cart, handleDeleteFromCart }) {
     navigate("/");
   }
 
+  function changeDurability(e) {
+    setDurability(e.target.value)
+  }
+  
+  function changeSize(e) {
+    setSize(e.target.value)
+  }
+
   return (
     <nav className="navbar">
-      <p onClick={onClickHome} className={"Navbar home-logo"}>MERN Marketplace</p>
+      <img
+        src="/TheUmbrellaShoppe.png"
+        onClick={onClickHome}
+        className={"Navbar home-logo"}
+      />
       <form onSubmit={handleSearch}>
+        <label htmlFor="durability">Durability</label>
+        <select
+          id="durability"
+          name="durability"
+          value={durability}
+          onChange={changeDurability}
+          className={"Navbar dropdown"}
+        >
+          <option value="standard">Standard</option>
+          <option value="good">Good</option>
+          <option value="ultra">Ultra</option>
+        </select>
+        <label htmlFor="size">Size</label>
+        <select
+          id="size"
+          name="size"
+          value={size}
+          onChange={changeSize}
+          className={"Navbar dropdown"}
+        >
+          <option value="short">Short</option>
+          <option value="medium">Medium</option>
+          <option value="long">Long</option>
+        </select>
         <input
-          id="search-param"
-          type="text"
-          onChange={handleChangeSearchParam}
-          className={"Navbar search-box"}
+          type="submit"
+          value="Search"
+          className={"Navbar search-submit"}
         />
-        <input type="submit" value="Search" className={"Navbar search-submit"} />
       </form>
       <div
         className={"Navbar cart-icon-container"}
@@ -58,7 +90,12 @@ export default function Navbar({ cart, handleDeleteFromCart }) {
           />
           <p>{cart.length > 0 ? cart.length : <></>}</p>
         </div>
-        {isDropdownVisible && <DropdownMenu cart={cart} handleDeleteFromCart={handleDeleteFromCart} />}
+        {isDropdownVisible && (
+          <DropdownMenu
+            cart={cart}
+            handleDeleteFromCart={handleDeleteFromCart}
+          />
+        )}
       </div>
     </nav>
   );
