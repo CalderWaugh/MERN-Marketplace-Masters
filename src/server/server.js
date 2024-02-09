@@ -1,21 +1,14 @@
 import express from "express";
 import mongodb from "mongodb";
 import mongoose from 'mongoose';
+import bodyParser from "body-parser";
 const { ObjectId } = mongoose.Types;
 const { MongoClient } = mongodb
-
-// Connection URL
-const url = 'mongodb://127.0.0.1:27017';
-
-import axios from "axios"; // Import axios for making HTTP requests
-import bodyParser from "body-parser";
-import { MongoClient } from "mongodb";
-import { PythonShell } from "python-shell";
 
 const app = express();
 
 // Database Connection URL
-const url = 'mongodb://localhost:27017';
+const url = 'mongodb://127.0.0.1:27017';
 const client = new MongoClient(url);
 
 // Database Name
@@ -28,19 +21,13 @@ app.use(bodyParser.json());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-// Connect database to server
 try {
     await client.connect(url)
-  
-// Connect to the MongoDB server
-client.connect()
-  .then(() => {
     console.log("Connected successfully to server");
     db = client.db(dbName);
-  })
-  .catch(err => {
+} catch (err) {
     console.error("Cannot Connect", err)
-  });
+}
 
 app.post('/api/product', async function (req, res) {
     const productsCol = db.collection('products');
