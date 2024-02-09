@@ -122,8 +122,8 @@ def get_recommendations(product_features, products):
     recommended_products = [products[index]['Name'] for index in indices[0]]
 
     # Ensure exactly 3 unique products are recommended
-    if len(recommended_products) > 3:
-        recommended_products = recommended_products[:3]
+    if len(recommended_products) > 4:
+        recommended_products = recommended_products[:4]
     
     return recommended_products
 
@@ -131,6 +131,12 @@ def get_recommendations(product_features, products):
 for idx, product in enumerate(products, start=1):
     product_features = [product['Popularity'], product['Durability'], product['Price']]
     recommendations = get_recommendations(product_features, products)
+
+    # Remove the current product's name from recommendations
+    recommendations = [name for name in recommendations if name != product['Name']]
+
+    # Ensure exactly 3 unique products are recommended
+    recommendations = recommendations[:4]
 
     # Add recommendations as an attribute to the current product in the collection
     collection.update_one(
