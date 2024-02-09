@@ -3,7 +3,7 @@ from sklearn.neighbors import NearestNeighbors
 from pymongo import MongoClient
 import numpy as np
 import random
-
+import json
 
 host = 'localhost'
 port = 27017
@@ -59,3 +59,11 @@ print("\nCurrent Product Features:\n", current_product_features)
 
 recommendations = get_recommendations(list(current_product_features.values()), current_product_index, products)
 print("\nRecommended products:\n", recommendations)
+
+def create_json(recommendations):
+    with open ('new_recommendations.json', 'w') as file:
+        json.dump(recommendations, file, indent=4)
+
+if __name__ == "__main__":
+    create_json(recommendations)
+    print("Recommendations have been generated and saved to new_recommendations.json")

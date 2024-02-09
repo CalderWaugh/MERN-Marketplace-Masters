@@ -31,9 +31,8 @@ app.get('/api/products', async function (req, res) {
 app.get('/api/products/bestsellers', async function (req, res) {
     const productsCol = db.collection('products');
     // Filter documents where "Popularity" is greater than 3
-    const products = await productsCol.find({ "Popularity": { $gt: 3 } }).toArray()
-    filtered_products = products.slice(0,4)
-    res.send(filtered_products)
+    const products = await productsCol.find({ "Popularity": { $gt: 3 } }).limit(5).toArray()
+    res.send(products)
 })
 
 // Express server listening
