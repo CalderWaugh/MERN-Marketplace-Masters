@@ -3,7 +3,7 @@
   border: 1px solid black;
   transition: all linear 0.3s;
   position: absolute;
-  top: 60px;
+  top: 50px;
   width: 150px;
   color: var(--medium);
   font-weight: 600;
