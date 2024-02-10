@@ -32,7 +32,7 @@ function App() {
           <Route path="/search/*" element={<SearchResultsPage />} />
           <Route path="/item/*" element={<ItemPage handleAddItemToCart={onAddToCart} />} />
           <Route path="/cart" element={<CartPage cart={cart}  handleDeleteFromCart={onRemoveFromCart} />} />
-          <Route path="/checkout" element={<CheckoutPage resetCart={resetCart} />} />
+          <Route path="/checkout" element={<CheckoutPage cart={cart} resetCart={resetCart} />} />
           <Route path="/order_complete" element={<CheckoutCompletePage />} />
         </Route>
       </Routes>

@@ -8,8 +8,8 @@ export default function Navbar({ cart, handleDeleteFromCart }) {
   const navigate = useNavigate();
 
   const [isDropdownVisible, setDropdownVisible] = useState(false);
-  const [durability, setDurability] = useState('good');
-  const [size, setSize] = useState('medium');
+  const [durability, setDurability] = useState("good");
+  const [size, setSize] = useState("medium");
 
   function handleSearch() {
     navigate(`/search/${durability}/${size}`);
@@ -32,11 +32,11 @@ export default function Navbar({ cart, handleDeleteFromCart }) {
   }
 
   function changeDurability(e) {
-    setDurability(e.target.value)
+    setDurability(e.target.value);
   }
-  
+
   function changeSize(e) {
-    setSize(e.target.value)
+    setSize(e.target.value);
   }
 
   return (
@@ -46,7 +46,7 @@ export default function Navbar({ cart, handleDeleteFromCart }) {
         onClick={onClickHome}
         className={"Navbar home-logo"}
       />
-      <form onSubmit={handleSearch}>
+      <form onSubmit={handleSearch} className={"Navbar form"}>
         <label htmlFor="durability">Durability</label>
         <select
           id="durability"
@@ -77,26 +77,30 @@ export default function Navbar({ cart, handleDeleteFromCart }) {
           className={"Navbar search-submit"}
         />
       </form>
-      <div
-        className={"Navbar cart-icon-container"}
-        onMouseEnter={handleMouseEnter}
-        onMouseLeave={handleMouseLeave}
-      >
-        <div className={"Navbar dropdown-toggle-container"}>
-          <img
-            src="/cart.png"
-            onClick={directViewCart}
-            className={"Navbar cart-icon"}
-          />
-          <p>{cart.length > 0 ? cart.length : <></>}</p>
+      {cart.length > 0 ? (
+        <div
+          className={"Navbar cart-icon-container"}
+          onMouseEnter={handleMouseEnter}
+          onMouseLeave={handleMouseLeave}
+        >
+          <div className={"Navbar dropdown-toggle-container"}>
+            <img
+              src="/cart.png"
+              onClick={directViewCart}
+              className={"Navbar cart-icon"}
+            />
+            <p>{cart.length > 0 ? cart.length : <></>}</p>
+          </div>
+          {isDropdownVisible && (
+            <DropdownMenu
+              cart={cart}
+              handleDeleteFromCart={handleDeleteFromCart}
+            />
+          )}
         </div>
-        {isDropdownVisible && (
-          <DropdownMenu
-            cart={cart}
-            handleDeleteFromCart={handleDeleteFromCart}
-          />
-        )}
-      </div>
+      ) : (
+        <div></div>
+      )}
     </nav>
   );
 }

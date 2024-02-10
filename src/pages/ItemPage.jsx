@@ -39,8 +39,6 @@ export default function ItemPage({ handleAddItemToCart }) {
       return prod
     })
     let recs = await Promise.all(rec_map)
-    console.log(recs)
-    console.log(typeof recs)
     return recs;
 
   }
@@ -49,9 +47,6 @@ export default function ItemPage({ handleAddItemToCart }) {
     getItem();
   }, []);
   
-  useEffect(() => {
-    console.log(recommendations)
-  }, [recommendations]);
 
   return (
     <div className={"ItemPage content"}>

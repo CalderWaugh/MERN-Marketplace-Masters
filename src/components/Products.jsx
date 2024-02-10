@@ -13,7 +13,6 @@ export default function Products() {
   const getDisplayedProducts = () => {
     let end = prod_per_page * pageNumber;
     let dp = products.slice(prod_per_page * (pageNumber - 1), end);
-    console.log(`dp ${dp}`);
     setDisplayedProducts(dp);
   };
 
@@ -25,12 +24,10 @@ export default function Products() {
   const getProducts = async () => {
     try {
       const response = await fetch("/api/products");
-      console.log(response.body);
       if (!response.ok) {
         throw new Error("Failed to fetch data");
       }
       let prod = await response.json();
-      console.log(prod);
       await setProducts(prod);
       setMaxPage(products.length / prod_per_page);
     } catch (error) {

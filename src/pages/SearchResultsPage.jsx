@@ -1,8 +1,9 @@
 import { useLocation } from "react-router-dom";
 import { useEffect, useState } from "react";
 import Product from "../components/Product";
+import "../styles/SearchResultsPage.css";
 
-const prod_per_page = 40;
+const prod_per_page = 30;
 
 export default function SearchResultsPage() {
   const location = useLocation();
@@ -16,7 +17,7 @@ export default function SearchResultsPage() {
     let new_page = e.target.value;
     setPageNumber(new_page);
   };
-  
+
   const getDisplayedProducts = () => {
     let end = prod_per_page * pageNumber;
     let dp = searchResults.slice(prod_per_page * (pageNumber - 1), end);
@@ -41,29 +42,29 @@ export default function SearchResultsPage() {
     await setSearchResults(search_res);
     let max = Math.floor(searchResults.length / prod_per_page);
     await setMaxPage(max);
-    console.log(maxPage)
-    console.log(max)
+    console.log(maxPage);
+    console.log(max);
     console.log(searchResults);
   }
 
   useEffect(() => {
     getSearchResults();
   }, []);
-  
+
   useEffect(() => {
     getDisplayedProducts();
   }, [searchResults, pageNumber]);
 
   return (
     <>
-    <div className={"Products products-container"}>
-      <div className={"Products header"}>
-        <h1>Search Results</h1>
-      </div>
+      <div className={"SearchResultsPage products-container"}>
+        <div className={"SearchResultsPage header"}>
+          <h1>Search Results</h1>
+        </div>
         {displayedProducts.map((r, i) => {
           return <Product key={i} product={r} />;
         })}
-        <div className={"Products page-container"}>
+        <div className={"SearchResultsPage page-container"}>
           <input
             type="number"
             id="page-number"

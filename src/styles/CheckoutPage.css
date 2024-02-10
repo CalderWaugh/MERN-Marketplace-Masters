@@ -1,15 +1,15 @@
 .CheckoutPage.form {
     display: flex;
     flex-direction: column;
-    margin: 20px 20vw;
     background-color: var(--extra-light);
-    padding: 20px 200px;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 .CheckoutPage.form-section {
     margin: 10px 0;
     display: flex;
-    justify-content: left;
+    width: fit-content;
 }
 
 .CheckoutPage.form-section-button {
@@ -29,4 +29,30 @@
     color: white;
     cursor: pointer;
 
+}
+
+.CheckoutPage.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+    background-color: var(--dark);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.CheckoutPage.page-container {
+    display: flex;
+    justify-content: center;
+}
+
+.CheckoutPage.cart-container {
+    overflow-y: auto;
+    height: 500px;
+    width: 100%;
+    background-color: var(--extra-light);
+    margin-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }

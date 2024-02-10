@@ -6,10 +6,13 @@ export default function CartPage({ cart, handleDeleteFromCart }) {
   function viewItem(id) {
     navigate(`/item/${id}`)
   }
+  function navigateCheckout() {
+    navigate('/checkout')
+  }
   return (
     <div className={"CartPage content"}>
       <div className={"CartPage container"}>
-        <h1>Cart</h1>
+        <h1 className={"CartPage header"}>Cart</h1>
         <ul className={"CartPage item-list"}>
           {cart.map((item, i) => (
             <li key={i} className={"CartPage item"}>
@@ -32,6 +35,7 @@ export default function CartPage({ cart, handleDeleteFromCart }) {
             </li>
           ))}
         </ul>
+        <button className={"CartPage checkout-btn"} onClick={navigateCheckout}>Checkout</button>
       </div>
     </div>
   );

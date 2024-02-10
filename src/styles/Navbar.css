@@ -6,6 +6,9 @@
   background-color: var(--dark);
   color: var(--extra-light);
   height: 70px;
+  position: fixed;
+  width: 80%;
+  top: 0;
 }
 
 .Navbar.home-logo {
@@ -63,4 +66,8 @@
   margin: 0 10px;
   height: 34px;
   padding: 2px 5px;
+}
+
+.Navbar.form {
+  padding-right: 150px;
 }

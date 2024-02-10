@@ -1,0 +1,30 @@
+.SearchResultsPage.products-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: var(--off-white);
+    border: 20px solid var(--dark);
+    margin-top: 75px;
+}
+
+.SearchResultsPage.header{
+    flex: 0 0 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    border-bottom: 20px solid var(--dark);
+    background-color: var(--dark);
+    color: white;
+}
+
+.SearchResultsPage.page-container{
+    flex: 0 0 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    background-color: var(--dark);
+}
